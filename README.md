@@ -2,7 +2,7 @@
 
 # Pong
 
-A tiny game of pong made for the [PICO-8](https://www.lexaloffle.com/pico-8.php) fantasy console.
+A tiny game of Pong made for the [PICO-8](https://www.lexaloffle.com/pico-8.php) fantasy console.
 
 [![GitHub version](https://img.shields.io/github/release/KirillKorolkov/pong.svg)](https://github.com/KirillKorolkov/pong/releases)
 [![License](https://img.shields.io/github/license/KirillKorolkov/pong.svg)](LICENSE.txt)
@@ -13,7 +13,7 @@ A tiny game of pong made for the [PICO-8](https://www.lexaloffle.com/pico-8.php)
 
 # Installation
 
-Load `pong.p8` file using your copy of the PICO-8 or you can download an already precompiled [pong.png]()cartridge file
+Load `pong.p8` file using your PICO-8 copy or you can download an already precompiled [pong.p8.png](https://github.com/KirillKorolkov/pong/releases/download/v1.1/pong.p8.png) cartridge file
 
 # Note
 
